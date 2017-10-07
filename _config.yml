@@ -1,1 +1,4 @@
 theme: jekyll-theme-time-machine
+title: VPN Token Test
+description: test to check Active Directory users for VPN tokens and company assigned computers
+show_downloads: true

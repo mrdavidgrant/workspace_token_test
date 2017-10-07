@@ -1,2 +1,1 @@
-# workspace_token_test
-check Active Directory to test for VPN tokens and company issued laptops
+My first foray into Python, a simple file IO to check Active Directory for users and verify against VPN tokens.
